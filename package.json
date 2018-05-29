@@ -2,7 +2,7 @@
   "name": "elliptic",
   "version": "6.4.0",
   "description": "EC cryptography",
-  "main": "lib/elliptic.js",
+  "main": "dist/elliptic.min.js",
   "files": [
     "lib"
   ],
